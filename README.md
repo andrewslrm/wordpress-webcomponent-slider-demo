@@ -1,4 +1,4 @@
-# wordpress-webcomponet-slider-demo
+# wordpress-webcomponent-slider-demo
 
 Example the integration Wordpress Loop + Web Components
 
