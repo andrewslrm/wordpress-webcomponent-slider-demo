@@ -1,0 +1,30 @@
+main {
+    width: 40%;
+    margin: 0 auto;
+}
+
+macro-carousel {
+    height: 500px;
+}
+
+figure, h3 {
+    flex: 1;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+}
+
+.slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: linear-gradient(to bottom right, #0F365D, #587798);
+    box-shadow: inset 0px 0px 20px 0px rgba(0, 0, 0, .05);
+
+    color: white;
+    font-size: 2em;
+    font-family: sans-serif;
+}
